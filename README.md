@@ -1,1 +1,1 @@
-# diceGame-project
+# Dice scroll game
